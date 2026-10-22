@@ -7,7 +7,7 @@ public class DoWhileLoop {
 
         do {
             System.out.println("I love Java");
-            count = count + 1;
+            count++;
         } while (count <= 5);
 
     }
