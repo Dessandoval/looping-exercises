@@ -7,7 +7,7 @@ public class WhileLoop {
 
         while (count <= 5){
             System.out.println("I love Java");
-            count = count + 1;
+            count++;
 
         }
 
